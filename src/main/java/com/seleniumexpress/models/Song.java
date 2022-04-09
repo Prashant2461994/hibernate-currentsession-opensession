@@ -18,6 +18,7 @@ public class Song {
 
 	@Column(name = "name")
 	private String name;
+	
 	@Column(name = "artist")
 	private String artist;
 
